@@ -22,6 +22,6 @@ RETRO GRAPHICS FOR DISPLAYING ON A TELEVISION AT LOCKSPORT MEETINGS.
 
 this is the [TOOOL.US](https://toool.us) logo:
 
-![TOOOL.US LOGO](https://github.com/MacGnG/TOOOL-GAMEDUINO1/blob/main/_TOOOL.US_.png?raw=true)
+![TOOOL.US LOGO](https://toool.us/wp-content/uploads/2024/08/toool_logo-1024x399.png)
 
-![[alt text](https://stackoverflow.com/a/14494775)](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+```![[alt text](https://stackoverflow.com/a/14494775)](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)```
