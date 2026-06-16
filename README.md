@@ -2,6 +2,12 @@
 RETRO GRAPHICS FOR DISPLAYING ON A TELEVISION AT LOCKSPORT MEETINGS.
 #
 
+# Dependencies #
+- https://github.com/jamesbowman/gd1/blob/master/GD.h
+- https://github.com/jamesbowman/gd1/blob/master/GD.cpp
+
+
+# Preview #
 ```
 "       The Open Organisation Of Lockpickers        ",   // 1
 "  ________                                         ",   // 2
@@ -19,9 +25,9 @@ RETRO GRAPHICS FOR DISPLAYING ON A TELEVISION AT LOCKSPORT MEETINGS.
 ```
 
 
+# TOOOL.US Logo: #
+This is the [TOOOL.US](https://toool.us) logo:
 
-this is the [TOOOL.US](https://toool.us) logo:
-
-![TOOOL.US LOGO](https://toool.us/wp-content/uploads/2024/08/toool_logo-1024x399.png)
+![TOOOL.US LOGO](https://github.com/MacGnG/TOOOL-GAMEDUINO1/blob/main/_TOOOL.US_.png?raw=true)
 
 ```![[alt text](https://stackoverflow.com/a/14494775)](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)```
