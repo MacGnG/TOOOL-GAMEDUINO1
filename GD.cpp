@@ -14,7 +14,7 @@ HardwareSPI SPI(1);
 #include "Arduino.h"
 #include <avr/pgmspace.h>
 #include <SPI.h>
-#include <GD.h>
+#include "GD.h"
 #endif
 
 static byte GD_SEL_PIN;
