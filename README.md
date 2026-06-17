@@ -32,3 +32,15 @@ This is the [TOOOL.US](https://toool.us) logo:
 ![TOOOL.US LOGO](https://github.com/MacGnG/TOOOL-GAMEDUINO1/blob/main/_TOOOL.US_.png?raw=true)
 
 ```![[alt text](https://stackoverflow.com/a/14494775)](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)```
+
+# Arduino Mega 2560 - WIRING #
+[https://en.ans.wiki/658/how-to-wire-the-spi-bus-on-gameduino-shield-and-arduino-mega-2560-or-adk/]
+
+```
+To use the Gameduino1 Shield with the Arduino Mega 2560, the SPI bus must be wired to pins 11, 12, & 13.
+
+Pin 51 (MOSI) is connected to pin 11
+Pin 50 (MISO) is connected to pin 12
+Pin 52 (SCK)  is connected to pin 13
+```
+![TOOOL.US LOGO](https://github.com/MacGnG/TOOOL-GAMEDUINO1/blob/main/Gameduino1+mega2569.png?raw=true)
